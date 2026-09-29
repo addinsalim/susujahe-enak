@@ -154,4 +154,3 @@ function LangSwitch({ lang, setLang }: { lang: "id" | "en"; setLang: (l: "id" | 
   );
 }
 
-export { siteConfig };
