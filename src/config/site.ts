@@ -45,7 +45,7 @@ export const siteConfig = {
   faviconSrc: "/favicon.ico",
 
   /** Komposisi produk — ganti bila data final sudah ada */
-  composition: "[Komposisi produk akan ditambahkan di sini]",
+  composition: "Susu sapi full cream, jahe merah, gula, perisa alami.",
 } as const;
 
 /** Membuat link WhatsApp dengan pesan otomatis. */
