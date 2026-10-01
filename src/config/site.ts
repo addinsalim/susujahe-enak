@@ -22,9 +22,9 @@ export const siteConfig = {
    * Nomor WhatsApp (format internasional tanpa tanda + dan tanpa spasi).
    * Contoh: 6281234567890
    */
-  whatsappNumber: "6281234567890",
+  whatsappNumber: "6281703330817",
   /** Teks nomor yang ditampilkan di halaman (boleh placeholder) */
-  whatsappDisplay: "[Nomor WhatsApp]",
+  whatsappDisplay: "+62 817-0333-0817",
 
   /** Informasi kontak — ganti placeholder bila data sudah tersedia */
   address: "[Alamat Usaha]",

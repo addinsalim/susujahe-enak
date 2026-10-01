@@ -76,7 +76,7 @@ export const id = {
     title: "Nikmati Hangatnya Seribu Rempah",
     desc: "Susu jahe siap seduh dengan perpaduan susu yang lembut dan jahe yang hangat. Praktis dinikmati kapan saja.",
     order: "Pesan Sekarang",
-    waMessage: "Halo Seribu Rempah, saya ingin memesan Susu Jahe 1 pack dengan harga Rp24.000.",
+    waMessage: "Halo Seribu Rempah! 👋\n\nSaya ingin memesan *Susu Jahe Seribu Rempah*.\n\n📦 *Detail Pesanan:*\n- Produk: Susu Jahe\n- Harga: Rp24.000 / pack\n- Jumlah: 1 pack\n\nApakah stok masih tersedia? Mohon konfirmasinya ya. Terima kasih! 🙏",
     features: ["Siap seduh", "Rasa seimbang", "Cocok untuk keluarga"],
   },
   gallery: {
@@ -102,7 +102,7 @@ export const id = {
     title: "Siap Menikmati Hangatnya Susu Jahe?",
     subtitle: "Pesan sekarang dan rasakan perpaduan nikmat susu dan jahe dalam setiap sajian.",
     button: "Pesan via WhatsApp",
-    waMessage: "Halo Seribu Rempah, saya ingin memesan Susu Jahe.",
+    waMessage: "Halo Seribu Rempah! 👋\n\nSaya ingin memesan *Susu Jahe Seribu Rempah*.\n\nApakah produk masih ready stock? Tolong info harga dan cara pemesanannya ya. Terima kasih! 🙏",
   },
   contact: {
     eyebrow: "Kontak",
@@ -187,7 +187,7 @@ export const en: typeof id = {
     title: "Enjoy the Warmth of Seribu Rempah",
     desc: "Ready-to-brew ginger milk with smooth milk and warm ginger. Practical to enjoy anytime.",
     order: "Order Now",
-    waMessage: "Hello Seribu Rempah, I would like to order 1 pack of Ginger Milk for Rp24.000.",
+    waMessage: "Hello Seribu Rempah! 👋\n\nI would like to order *Seribu Rempah Ginger Milk*.\n\n📦 *Order Details:*\n- Product: Ginger Milk\n- Price: Rp24.000 / pack\n- Qty: 1 pack\n\nIs it still in stock? Please confirm. Thank you! 🙏",
     features: ["Ready to brew", "Balanced taste", "Family friendly"],
   },
   gallery: {
@@ -210,7 +210,7 @@ export const en: typeof id = {
     title: "Ready to Enjoy Warm Ginger Milk?",
     subtitle: "Order now and taste the delicious blend of milk and ginger in every serving.",
     button: "Order via WhatsApp",
-    waMessage: "Hello Seribu Rempah, I would like to order Ginger Milk.",
+    waMessage: "Hello Seribu Rempah! 👋\n\nI would like to order *Seribu Rempah Ginger Milk*.\n\nIs the product still available? Please share the price and ordering details. Thank you! 🙏",
   },
   contact: {
     eyebrow: "Contact",
